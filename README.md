@@ -13,7 +13,7 @@ Descomprimir l'arxiu.
 Obrir el projecte descomprimit desde un IDE de Java i executar TicTacToe.java.
 
 
-Com jugar
+## Com jugar
 
 Segueix les instruccions que es mostren després d'executar el programa per realitzar les tirades.
 El primer jugador en aconseguir una línia horizontal, vertical o diagonal guanya el joc.
